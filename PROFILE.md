@@ -6,5 +6,5 @@ UK Citizen, world traveller, heart belongs in Asia.
 * Seasoned traveller ✈️
 * Lover of tea 🍵
 
-[!CAUTION]
-May have opinions which some my find uncomfortable
+> [!CAUTION]
+> May have opinions which some my find uncomfortable
