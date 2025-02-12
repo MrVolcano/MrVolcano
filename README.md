@@ -7,4 +7,4 @@ UK Citizen, world traveller, heart belongs in Asia.
 * Lover of tea 🍵
 
 > [!CAUTION]
-> May have opinions which some my find uncomfortable
+> May contain opinions which some my find uncomfortable
